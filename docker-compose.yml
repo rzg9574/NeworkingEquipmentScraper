@@ -1,0 +1,32 @@
+services:
+  selenium:
+    container_name: seleniumArista
+    image: selenium/standalone-chrome
+    ports:
+    - 4447:4444
+    environment:
+    - TZ=America/New_York
+    networks:
+    - scrapenet
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4444"]
+      interval: 15s
+      timeout: 15s
+      retries: 5
+
+  app:
+    container_name: arista-scraper-code
+    image: arista-scraper-code
+    build:  .
+    volumes:
+      - ./:/app
+    depends_on:
+      selenium:
+        condition: service_healthy
+    environment:
+    - TZ=America/New_York
+    networks:
+      - scrapenet
+networks:
+  scrapenet:
+

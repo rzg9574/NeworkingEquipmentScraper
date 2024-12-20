@@ -1,0 +1,59 @@
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/application-policy-infrastructure-controller-apic/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/automated-fault-management/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/dynamic-fabric-automation/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/manufacturing-iot-demo/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/smart-net-total-care/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/thousandeyes-end-user-monitoring/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/thousandeyes-internet-insights/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/cloud-systems-management/thousandeyes-network-application-synthetics/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/conferencing/collaboration-meeting-rooms-cmr/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/dam/en/us/products/collateral/physical-security/ip-camera-applications-utilities/datasheet-c78-732836.doc ---For this reason: Soup is None, url not valid
+
+
+Failed at this link----->https://www.cisco.com/c/dam/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr-9000-rsp-880-eol.docx ---For this reason: Soup is None, url not valid
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/security/multicloud-defense/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/security/virtual-security-packet-analyzer/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/unified-communications/business-edition-6000/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/unified-communications/business-edition-7000/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/unified-communications/broadcloud-paas/series.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/unified-communications/unified-communications-system/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/unified-communications/hosted-collaboration-solution-hcs/tsd-products-support-series-home.html ---For this reason: No describe List
+
+
+Failed at this link----->https://www.cisco.com/c/dam/en/us/products/collateral/conferencing/show-share/data_sheet_c78-477948.doc ---For this reason: Soup is None, url not valid
+
+
+Failed at this link----->https://www.cisco.com/c/en/us/support/wireless/wireless-location-appliance/series.html ---For this reason: Bad Link
+
